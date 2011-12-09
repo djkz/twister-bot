@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/python-weather/Weather
+END
+stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13/trunk/python-weather/Weather/stats.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/python-weather/Weather/__init__.py
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/python-weather/Weather/interface.py
+END
+station.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/trunk/python-weather/Weather/station.py
+END
+globals.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/trunk/python-weather/Weather/globals.py
+END
